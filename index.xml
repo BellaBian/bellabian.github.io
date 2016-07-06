@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+
+    <title>@&lt;Your `handle`&gt;’s Bella的技术博客</title>
+    <link>http://bellabian.github.io/</link>
+    <description>All entries on Bella的技术博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    
+    <lastBuildDate>Thu, 07 Jul 2016 00:09:55 +0800</lastBuildDate>
+    <atom:link href="http://bellabian.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>my first blog</title>
+        <link>http://bellabian.github.io/posts/my-first-blog/</link>
+        <pubDate>Thu, 07 Jul 2016 00:09:55 +0800</pubDate>
+        
+        <guid>http://bellabian.github.io/posts/my-first-blog/</guid>
+        <description>
+
+&lt;h1 id=&#34;this-is-my-first-blog&#34;&gt;This is my first blog&lt;/h1&gt;
+
+&lt;h2 id=&#34;bella&#34;&gt;Bella&lt;/h2&gt;
+
+&lt;p&gt;My name is &lt;code&gt;bianqi&lt;/code&gt;!&lt;/p&gt;
+</description>
+      </item>
+      
+    
+  </channel>
+</rss>
